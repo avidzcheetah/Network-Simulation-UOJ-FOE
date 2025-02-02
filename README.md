@@ -1,8 +1,8 @@
 # Network-Simulation-UOJ-FOE
 This project designs a scalable and efficient VLAN-based network for an educational institution, covering multiple engineering departments. The network uses subnetting and VLAN segmentation to optimize performance and security.
 
-![Network Topology](./network_topology.png)  
-*Screenshot of the network topology simulation*  
+![Network Simulation](./simulation.gif)  
+*Screenrecord of the network topology simulation*  
 
 ## 📌 Project Overview  
 This project focuses on designing a **scalable and efficient VLAN-based network** for an educational institution. The network is structured with **Layer 3 switching and subnetting** to ensure optimal performance, security, and future scalability.  
