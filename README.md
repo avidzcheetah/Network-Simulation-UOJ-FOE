@@ -12,7 +12,7 @@ This project focuses on designing a **scalable and efficient VLAN-based network*
 ✅ **Layer 3 Switching & Inter-VLAN Routing** – Faster and more reliable data communication.  
 ✅ **VLAN Trunking** – Allows seamless expansion without major reconfiguration.  
 ✅ **Quality of Service (QoS)** – Prioritizes administrative and security traffic.  
-✅ **Future Scalability** – Supports a 30% increase in connected devices.  
+✅ **Future Scalability** – Supports more than 30% increase in connected devices.  
 
 ## 🏗️ Network Design  
 The network is divided into **departments**, each with **dedicated VLANs** for students, staff, and other devices. Below is a summary:  
