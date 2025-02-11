@@ -17,6 +17,10 @@ This project focuses on designing a **scalable and efficient VLAN-based network*
 ## 🏗️ Network Design  
 The network is divided into **departments**, each with **dedicated VLANs** for students, staff, and other devices. Below is a summary:  
 
+*Network Topology Diagram*
+
+![Network Topology Diagram](./EFacNetTopologyDiagram.png)  
+
 *Subnet Calculations*  
 
 | Department      | Device Type     | Total Devices | Future Growth (30%) | Required Hosts | Subnet Mask              | Network Address  | Usable IP Range                  | Broadcast Address  |
